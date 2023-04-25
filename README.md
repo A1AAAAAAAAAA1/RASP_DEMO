@@ -7,7 +7,8 @@
 ### RASP_ZERO生成方式
   使用maven打开本项目:
 使用maven插件assembly 打包项目(与普通的打包相比，assembly会将项目中导入的依赖一起打包进生成的jar包)
-![6O`HYJZ M{1QC9H8DK4W~1E](https://user-images.githubusercontent.com/94785056/234197728-9831b9af-9f3b-4bfd-8d7e-a86da9d487ab.png)
+![1RH(3@OQFPF$R2Z~LNZDO%F](https://user-images.githubusercontent.com/94785056/234203618-1fdb7dc4-6afa-430e-8a4c-3c6bf74b7a57.png)
+
 target目录下，RASP_zero-1.0-SNAPSHOT-jar-with-dependencies.jar即为我们需要的jar包。
 ![6O`HYJZ M{1QC9H8DK4W~1E](https://user-images.githubusercontent.com/94785056/234198126-ea6993ce-b1c1-43f5-95ac-6ab981223ee4.png)
 
